@@ -1,5 +1,3 @@
-# Test-Assignment
-
 Assignment 1.
 -----------------------------------------------------------------------------------------------------------------------------------------------
 For Assignment 1, Have a created a small tool 'Grid Genarator' for creating Grid of desired size and position.
