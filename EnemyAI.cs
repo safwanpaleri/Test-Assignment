@@ -19,7 +19,7 @@ public class EnemyAI : AI
 
     void Update()
     {
-        //If player reached Endpoint, it will Senf an Signal.
+        //If player reached Endpoint, it will Send an Signal.
         if(player.sendPos)
         {
             noMove = false;
