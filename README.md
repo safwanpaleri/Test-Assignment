@@ -50,3 +50,5 @@ or what are the contents inside the scriptable object.
 Raycasting can be changed into Mouse on hover(),
 
 the codes are commented for better readibility and understanbility.
+
+The tools codes are inside the folder 'Editor'
